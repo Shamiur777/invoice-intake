@@ -1,5 +1,7 @@
 # Invoice Intake
 
+[![tests](https://github.com/Shamiur777/invoice-intake/actions/workflows/tests.yml/badge.svg)](https://github.com/Shamiur777/invoice-intake/actions)
+
 Upload invoice PDFs. An AI extractor reads each one and returns structured data. Clean extractions are auto-approved; anything doubtful goes to a human review queue. Approved data exports to CSV.
 
 All invoices in this repo are synthetic. Every vendor is fictional.
@@ -44,7 +46,7 @@ Claude results: run the commands below, then paste the numbers in the table. I h
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 pip install -r requirements.txt
-python -m pytest -q             # 7 tests, no API key needed
+python -m pytest -q             # 8 tests, no API key needed
 
 python -m intake.evaluate baseline hard
 set ANTHROPIC_API_KEY=your-key  # Windows (use export on Mac/Linux)
