@@ -1,0 +1,1474 @@
+[
+  {
+    "file": "invoice_001.pdf",
+    "template": 2,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-1950-001",
+    "invoice_date": "2026-02-18",
+    "currency": "AUD",
+    "subtotal": 250.5,
+    "tax": 25.05,
+    "total": 275.55,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 2,
+        "unit_price": 42.0,
+        "amount": 84.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 9,
+        "unit_price": 18.5,
+        "amount": 166.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_002.pdf",
+    "template": 0,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-4943-002",
+    "invoice_date": "2026-08-03",
+    "currency": "USD",
+    "subtotal": 448.0,
+    "tax": 0.0,
+    "total": 448.0,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 7,
+        "unit_price": 64.0,
+        "amount": 448.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_003.pdf",
+    "template": 0,
+    "vendor": "Northwind Supplies Pty Ltd",
+    "invoice_number": "INV-4622-003",
+    "invoice_date": "2026-07-23",
+    "currency": "BDT",
+    "subtotal": 3038.5,
+    "tax": 455.77,
+    "total": 3494.27,
+    "line_items": [
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 11,
+        "unit_price": 18.5,
+        "amount": 203.5
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 10,
+        "unit_price": 64.0,
+        "amount": 640.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 1,
+        "unit_price": 95.0,
+        "amount": 95.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 10,
+        "unit_price": 210.0,
+        "amount": 2100.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_004.pdf",
+    "template": 2,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-6054-004",
+    "invoice_date": "2026-03-02",
+    "currency": "BDT",
+    "subtotal": 416.25,
+    "tax": 62.44,
+    "total": 478.69,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 3,
+        "unit_price": 12.75,
+        "amount": 38.25
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 9,
+        "unit_price": 42.0,
+        "amount": 378.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_005.pdf",
+    "template": 2,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-1976-005",
+    "invoice_date": "2026-02-02",
+    "currency": "BDT",
+    "subtotal": 574.0,
+    "tax": 86.1,
+    "total": 660.1,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 6,
+        "unit_price": 64.0,
+        "amount": 384.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 2,
+        "unit_price": 95.0,
+        "amount": 190.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_006.pdf",
+    "template": 0,
+    "vendor": "Harbour Print & Pack",
+    "invoice_number": "INV-4999-006",
+    "invoice_date": "2026-05-08",
+    "currency": "USD",
+    "subtotal": 2861.0,
+    "tax": 0.0,
+    "total": 2861.0,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 10,
+        "unit_price": 79.0,
+        "amount": 790.0
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 8,
+        "unit_price": 42.0,
+        "amount": 336.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 6,
+        "unit_price": 210.0,
+        "amount": 1260.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 5,
+        "unit_price": 95.0,
+        "amount": 475.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_007.pdf",
+    "template": 1,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-9387-007",
+    "invoice_date": "2026-02-07",
+    "currency": "BDT",
+    "subtotal": 2122.0,
+    "tax": 318.3,
+    "total": 2440.3,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 12,
+        "unit_price": 79.0,
+        "amount": 948.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 8,
+        "unit_price": 15.5,
+        "amount": 124.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 5,
+        "unit_price": 210.0,
+        "amount": 1050.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_008.pdf",
+    "template": 2,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-6737-008",
+    "invoice_date": "2026-06-10",
+    "currency": "USD",
+    "subtotal": 374.5,
+    "tax": 0.0,
+    "total": 374.5,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 1,
+        "unit_price": 120.0,
+        "amount": 120.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 11,
+        "unit_price": 15.5,
+        "amount": 170.5
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 2,
+        "unit_price": 42.0,
+        "amount": 84.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_009.pdf",
+    "template": 1,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-8301-009",
+    "invoice_date": "2026-06-08",
+    "currency": "AUD",
+    "subtotal": 2308.0,
+    "tax": 230.8,
+    "total": 2538.8,
+    "line_items": [
+      {
+        "description": "Catering per head",
+        "quantity": 12,
+        "unit_price": 15.5,
+        "amount": 186.0
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 11,
+        "unit_price": 64.0,
+        "amount": 704.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 2,
+        "unit_price": 79.0,
+        "amount": 158.0
+      },
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 1,
+        "unit_price": 120.0,
+        "amount": 120.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 12,
+        "unit_price": 95.0,
+        "amount": 1140.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_010.pdf",
+    "template": 0,
+    "vendor": "Delta Cloud Services LLC",
+    "invoice_number": "INV-5709-010",
+    "invoice_date": "2026-01-31",
+    "currency": "BDT",
+    "subtotal": 1806.0,
+    "tax": 270.9,
+    "total": 2076.9,
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 210.0,
+        "amount": 630.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 10,
+        "unit_price": 18.5,
+        "amount": 185.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 2,
+        "unit_price": 15.5,
+        "amount": 31.0
+      },
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 8,
+        "unit_price": 120.0,
+        "amount": 960.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_011.pdf",
+    "template": 2,
+    "vendor": "Lotus Digital Studio",
+    "invoice_number": "INV-7580-011",
+    "invoice_date": "2026-03-27",
+    "currency": "BDT",
+    "subtotal": 446.0,
+    "tax": 66.9,
+    "total": 512.9,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 8,
+        "unit_price": 42.0,
+        "amount": 336.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 2,
+        "unit_price": 55.0,
+        "amount": 110.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_012.pdf",
+    "template": 0,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-7233-012",
+    "invoice_date": "2026-08-01",
+    "currency": "AUD",
+    "subtotal": 1158.0,
+    "tax": 115.8,
+    "total": 1273.8,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 5,
+        "unit_price": 42.0,
+        "amount": 210.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 12,
+        "unit_price": 79.0,
+        "amount": 948.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_013.pdf",
+    "template": 1,
+    "vendor": "Delta Cloud Services LLC",
+    "invoice_number": "INV-1197-013",
+    "invoice_date": "2026-04-29",
+    "currency": "USD",
+    "subtotal": 360.0,
+    "tax": 0.0,
+    "total": 360.0,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_014.pdf",
+    "template": 2,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-7049-014",
+    "invoice_date": "2026-08-03",
+    "currency": "BDT",
+    "subtotal": 177.75,
+    "tax": 26.66,
+    "total": 204.41,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 1,
+        "unit_price": 12.75,
+        "amount": 12.75
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 3,
+        "unit_price": 55.0,
+        "amount": 165.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_015.pdf",
+    "template": 1,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-7536-015",
+    "invoice_date": "2026-07-20",
+    "currency": "BDT",
+    "subtotal": 1995.5,
+    "tax": 299.32,
+    "total": 2294.82,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 8,
+        "unit_price": 120.0,
+        "amount": 960.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 11,
+        "unit_price": 79.0,
+        "amount": 869.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 9,
+        "unit_price": 18.5,
+        "amount": 166.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_016.pdf",
+    "template": 0,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-1861-016",
+    "invoice_date": "2026-06-24",
+    "currency": "USD",
+    "subtotal": 759.0,
+    "tax": 0.0,
+    "total": 759.0,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 4,
+        "unit_price": 42.0,
+        "amount": 168.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 8,
+        "unit_price": 18.5,
+        "amount": 148.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 3,
+        "unit_price": 95.0,
+        "amount": 285.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 2,
+        "unit_price": 79.0,
+        "amount": 158.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_017.pdf",
+    "template": 2,
+    "vendor": "Maple Street Catering",
+    "invoice_number": "INV-6691-017",
+    "invoice_date": "2026-03-18",
+    "currency": "USD",
+    "subtotal": 1173.25,
+    "tax": 0.0,
+    "total": 1173.25,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 1,
+        "unit_price": 120.0,
+        "amount": 120.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 2,
+        "unit_price": 79.0,
+        "amount": 158.0
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 4,
+        "unit_price": 64.0,
+        "amount": 256.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 10,
+        "unit_price": 55.0,
+        "amount": 550.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 7,
+        "unit_price": 12.75,
+        "amount": 89.25
+      }
+    ]
+  },
+  {
+    "file": "invoice_018.pdf",
+    "template": 2,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-6613-018",
+    "invoice_date": "2026-03-15",
+    "currency": "AUD",
+    "subtotal": 1219.5,
+    "tax": 121.95,
+    "total": 1341.45,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 8,
+        "unit_price": 64.0,
+        "amount": 512.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 8,
+        "unit_price": 55.0,
+        "amount": 440.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 5,
+        "unit_price": 15.5,
+        "amount": 77.5
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 2,
+        "unit_price": 95.0,
+        "amount": 190.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_019.pdf",
+    "template": 2,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-5883-019",
+    "invoice_date": "2026-01-14",
+    "currency": "AUD",
+    "subtotal": 2377.5,
+    "tax": 237.75,
+    "total": 2615.25,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 9,
+        "unit_price": 120.0,
+        "amount": 1080.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 6,
+        "unit_price": 79.0,
+        "amount": 474.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 3,
+        "unit_price": 18.5,
+        "amount": 55.5
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 12,
+        "unit_price": 64.0,
+        "amount": 768.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_020.pdf",
+    "template": 2,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-4654-020",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "subtotal": 2394.0,
+    "tax": 0.0,
+    "total": 2394.0,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 6,
+        "unit_price": 79.0,
+        "amount": 474.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 4,
+        "unit_price": 210.0,
+        "amount": 840.0
+      },
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 9,
+        "unit_price": 120.0,
+        "amount": 1080.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_021.pdf",
+    "template": 0,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-1474-021",
+    "invoice_date": "2026-09-10",
+    "currency": "USD",
+    "subtotal": 1023.0,
+    "tax": 0.0,
+    "total": 1023.0,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 4,
+        "unit_price": 42.0,
+        "amount": 168.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 9,
+        "unit_price": 95.0,
+        "amount": 855.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_022.pdf",
+    "template": 1,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-4716-022",
+    "invoice_date": "2026-04-23",
+    "currency": "AUD",
+    "subtotal": 2141.0,
+    "tax": 214.1,
+    "total": 2355.1,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 12,
+        "unit_price": 12.75,
+        "amount": 153.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 6,
+        "unit_price": 95.0,
+        "amount": 570.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 6,
+        "unit_price": 210.0,
+        "amount": 1260.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 2,
+        "unit_price": 79.0,
+        "amount": 158.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_023.pdf",
+    "template": 2,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-7365-023",
+    "invoice_date": "2026-02-13",
+    "currency": "USD",
+    "subtotal": 1041.5,
+    "tax": 0.0,
+    "total": 1041.5,
+    "line_items": [
+      {
+        "description": "Consulting hour",
+        "quantity": 8,
+        "unit_price": 95.0,
+        "amount": 760.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 11,
+        "unit_price": 15.5,
+        "amount": 170.5
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 6,
+        "unit_price": 18.5,
+        "amount": 111.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_024.pdf",
+    "template": 0,
+    "vendor": "Harbour Print & Pack",
+    "invoice_number": "INV-3785-024",
+    "invoice_date": "2026-02-13",
+    "currency": "USD",
+    "subtotal": 3543.5,
+    "tax": 0.0,
+    "total": 3543.5,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 12,
+        "unit_price": 120.0,
+        "amount": 1440.0
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 7,
+        "unit_price": 42.0,
+        "amount": 294.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 8,
+        "unit_price": 210.0,
+        "amount": 1680.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 7,
+        "unit_price": 18.5,
+        "amount": 129.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_025.pdf",
+    "template": 2,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-3554-025",
+    "invoice_date": "2026-08-31",
+    "currency": "USD",
+    "subtotal": 651.5,
+    "tax": 0.0,
+    "total": 651.5,
+    "line_items": [
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 11,
+        "unit_price": 55.0,
+        "amount": 605.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 3,
+        "unit_price": 15.5,
+        "amount": 46.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_026.pdf",
+    "template": 1,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-3281-026",
+    "invoice_date": "2026-02-22",
+    "currency": "BDT",
+    "subtotal": 827.0,
+    "tax": 124.05,
+    "total": 951.05,
+    "line_items": [
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 12,
+        "unit_price": 18.5,
+        "amount": 222.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 11,
+        "unit_price": 55.0,
+        "amount": 605.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_027.pdf",
+    "template": 1,
+    "vendor": "Delta Cloud Services LLC",
+    "invoice_number": "INV-6341-027",
+    "invoice_date": "2026-09-14",
+    "currency": "USD",
+    "subtotal": 137.75,
+    "tax": 0.0,
+    "total": 137.75,
+    "line_items": [
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 4,
+        "unit_price": 18.5,
+        "amount": 74.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 5,
+        "unit_price": 12.75,
+        "amount": 63.75
+      }
+    ]
+  },
+  {
+    "file": "invoice_028.pdf",
+    "template": 0,
+    "vendor": "Harbour Print & Pack",
+    "invoice_number": "INV-9713-028",
+    "invoice_date": "2026-09-14",
+    "currency": "BDT",
+    "subtotal": 4060.0,
+    "tax": 609.0,
+    "total": 4669.0,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 11,
+        "unit_price": 120.0,
+        "amount": 1320.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 10,
+        "unit_price": 18.5,
+        "amount": 185.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 9,
+        "unit_price": 210.0,
+        "amount": 1890.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 7,
+        "unit_price": 95.0,
+        "amount": 665.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_029.pdf",
+    "template": 1,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-2011-029",
+    "invoice_date": "2026-03-03",
+    "currency": "BDT",
+    "subtotal": 1114.0,
+    "tax": 167.1,
+    "total": 1281.1,
+    "line_items": [
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 3,
+        "unit_price": 18.5,
+        "amount": 55.5
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 3,
+        "unit_price": 15.5,
+        "amount": 46.5
+      },
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 8,
+        "unit_price": 12.75,
+        "amount": 102.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 10,
+        "unit_price": 55.0,
+        "amount": 550.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_030.pdf",
+    "template": 1,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-9318-030",
+    "invoice_date": "2026-01-22",
+    "currency": "BDT",
+    "subtotal": 1088.5,
+    "tax": 163.28,
+    "total": 1251.78,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 9,
+        "unit_price": 79.0,
+        "amount": 711.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 1,
+        "unit_price": 55.0,
+        "amount": 55.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 4,
+        "unit_price": 15.5,
+        "amount": 62.0
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 4,
+        "unit_price": 42.0,
+        "amount": 168.0
+      },
+      {
+        "description": "A4 copy paper (box)",
+        "quantity": 5,
+        "unit_price": 18.5,
+        "amount": 92.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_031.pdf",
+    "template": 2,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-9282-031",
+    "invoice_date": "2026-06-16",
+    "currency": "BDT",
+    "subtotal": 512.0,
+    "tax": 76.8,
+    "total": 588.8,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 8,
+        "unit_price": 64.0,
+        "amount": 512.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_032.pdf",
+    "template": 2,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-5057-032",
+    "invoice_date": "2026-09-02",
+    "currency": "BDT",
+    "subtotal": 254.25,
+    "tax": 38.14,
+    "total": 292.39,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 9,
+        "unit_price": 12.75,
+        "amount": 114.75
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 9,
+        "unit_price": 15.5,
+        "amount": 139.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_033.pdf",
+    "template": 0,
+    "vendor": "Lotus Digital Studio",
+    "invoice_number": "INV-6177-033",
+    "invoice_date": "2026-07-20",
+    "currency": "BDT",
+    "subtotal": 933.0,
+    "tax": 139.95,
+    "total": 1072.95,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 3,
+        "unit_price": 79.0,
+        "amount": 237.0
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 7,
+        "unit_price": 95.0,
+        "amount": 665.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 2,
+        "unit_price": 15.5,
+        "amount": 31.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_034.pdf",
+    "template": 2,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-3530-034",
+    "invoice_date": "2026-06-05",
+    "currency": "BDT",
+    "subtotal": 872.0,
+    "tax": 130.8,
+    "total": 1002.8,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 4,
+        "unit_price": 42.0,
+        "amount": 168.0
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 11,
+        "unit_price": 64.0,
+        "amount": 704.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_035.pdf",
+    "template": 0,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-8983-035",
+    "invoice_date": "2026-02-18",
+    "currency": "BDT",
+    "subtotal": 1671.0,
+    "tax": 250.65,
+    "total": 1921.65,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 8,
+        "unit_price": 120.0,
+        "amount": 960.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 4,
+        "unit_price": 12.75,
+        "amount": 51.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 12,
+        "unit_price": 55.0,
+        "amount": 660.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_036.pdf",
+    "template": 1,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-4207-036",
+    "invoice_date": "2026-06-23",
+    "currency": "BDT",
+    "subtotal": 1374.0,
+    "tax": 206.1,
+    "total": 1580.1,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 9,
+        "unit_price": 120.0,
+        "amount": 1080.0
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 7,
+        "unit_price": 42.0,
+        "amount": 294.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_037.pdf",
+    "template": 1,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-8514-037",
+    "invoice_date": "2026-06-23",
+    "currency": "AUD",
+    "subtotal": 210.0,
+    "tax": 21.0,
+    "total": 231.0,
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 1,
+        "unit_price": 210.0,
+        "amount": 210.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_038.pdf",
+    "template": 2,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-5840-038",
+    "invoice_date": "2026-09-22",
+    "currency": "BDT",
+    "subtotal": 252.0,
+    "tax": 37.8,
+    "total": 289.8,
+    "line_items": [
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 6,
+        "unit_price": 42.0,
+        "amount": 252.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_039.pdf",
+    "template": 0,
+    "vendor": "Maple Street Catering",
+    "invoice_number": "INV-5455-039",
+    "invoice_date": "2026-02-13",
+    "currency": "USD",
+    "subtotal": 190.0,
+    "tax": 0.0,
+    "total": 190.0,
+    "line_items": [
+      {
+        "description": "Consulting hour",
+        "quantity": 2,
+        "unit_price": 95.0,
+        "amount": 190.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_040.pdf",
+    "template": 2,
+    "vendor": "Greenfield Cleaning Services",
+    "invoice_number": "INV-9103-040",
+    "invoice_date": "2026-09-21",
+    "currency": "USD",
+    "subtotal": 1080.75,
+    "tax": 0.0,
+    "total": 1080.75,
+    "line_items": [
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 7,
+        "unit_price": 120.0,
+        "amount": 840.0
+      },
+      {
+        "description": "Printing - flyers (100)",
+        "quantity": 3,
+        "unit_price": 42.0,
+        "amount": 126.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 9,
+        "unit_price": 12.75,
+        "amount": 114.75
+      }
+    ]
+  },
+  {
+    "file": "invoice_041.pdf",
+    "template": 1,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-2186-041",
+    "invoice_date": "2026-04-04",
+    "currency": "AUD",
+    "subtotal": 12.75,
+    "tax": 1.28,
+    "total": 14.03,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 1,
+        "unit_price": 12.75,
+        "amount": 12.75
+      }
+    ]
+  },
+  {
+    "file": "invoice_042.pdf",
+    "template": 0,
+    "vendor": "Bluegum Office Solutions",
+    "invoice_number": "INV-5332-042",
+    "invoice_date": "2026-04-24",
+    "currency": "USD",
+    "subtotal": 25.5,
+    "tax": 0.0,
+    "total": 25.5,
+    "line_items": [
+      {
+        "description": "Courier delivery",
+        "quantity": 2,
+        "unit_price": 12.75,
+        "amount": 25.5
+      }
+    ]
+  },
+  {
+    "file": "invoice_043.pdf",
+    "template": 0,
+    "vendor": "Maple Street Catering",
+    "invoice_number": "INV-3117-043",
+    "invoice_date": "2026-08-02",
+    "currency": "AUD",
+    "subtotal": 1890.0,
+    "tax": 189.0,
+    "total": 2079.0,
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 9,
+        "unit_price": 210.0,
+        "amount": 1890.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_044.pdf",
+    "template": 2,
+    "vendor": "Delta Cloud Services LLC",
+    "invoice_number": "INV-6111-044",
+    "invoice_date": "2026-04-03",
+    "currency": "BDT",
+    "subtotal": 440.0,
+    "tax": 66.0,
+    "total": 506.0,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 5,
+        "unit_price": 64.0,
+        "amount": 320.0
+      },
+      {
+        "description": "Cloud hosting (monthly)",
+        "quantity": 1,
+        "unit_price": 120.0,
+        "amount": 120.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_045.pdf",
+    "template": 2,
+    "vendor": "Northwind Supplies Pty Ltd",
+    "invoice_number": "INV-1302-045",
+    "invoice_date": "2026-01-19",
+    "currency": "AUD",
+    "subtotal": 1570.75,
+    "tax": 157.08,
+    "total": 1727.83,
+    "line_items": [
+      {
+        "description": "Consulting hour",
+        "quantity": 3,
+        "unit_price": 95.0,
+        "amount": 285.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 5,
+        "unit_price": 12.75,
+        "amount": 63.75
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 6,
+        "unit_price": 15.5,
+        "amount": 93.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 1,
+        "unit_price": 79.0,
+        "amount": 79.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 5,
+        "unit_price": 210.0,
+        "amount": 1050.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_046.pdf",
+    "template": 2,
+    "vendor": "Summit IT Support",
+    "invoice_number": "INV-7440-046",
+    "invoice_date": "2026-09-11",
+    "currency": "BDT",
+    "subtotal": 2282.5,
+    "tax": 342.38,
+    "total": 2624.88,
+    "line_items": [
+      {
+        "description": "Consulting hour",
+        "quantity": 2,
+        "unit_price": 95.0,
+        "amount": 190.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 11,
+        "unit_price": 79.0,
+        "amount": 869.0
+      },
+      {
+        "description": "Catering per head",
+        "quantity": 11,
+        "unit_price": 15.5,
+        "amount": 170.5
+      },
+      {
+        "description": "Toner cartridge",
+        "quantity": 7,
+        "unit_price": 64.0,
+        "amount": 448.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 11,
+        "unit_price": 55.0,
+        "amount": 605.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_047.pdf",
+    "template": 0,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-6694-047",
+    "invoice_date": "2026-03-13",
+    "currency": "AUD",
+    "subtotal": 2900.0,
+    "tax": 290.0,
+    "total": 3190.0,
+    "line_items": [
+      {
+        "description": "Consulting hour",
+        "quantity": 4,
+        "unit_price": 95.0,
+        "amount": 380.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 12,
+        "unit_price": 210.0,
+        "amount": 2520.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_048.pdf",
+    "template": 0,
+    "vendor": "Pioneer Stationery Co",
+    "invoice_number": "INV-3674-048",
+    "invoice_date": "2026-05-11",
+    "currency": "USD",
+    "subtotal": 704.0,
+    "tax": 0.0,
+    "total": 704.0,
+    "line_items": [
+      {
+        "description": "Toner cartridge",
+        "quantity": 11,
+        "unit_price": 64.0,
+        "amount": 704.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_049.pdf",
+    "template": 0,
+    "vendor": "Maple Street Catering",
+    "invoice_number": "INV-8304-049",
+    "invoice_date": "2026-03-22",
+    "currency": "USD",
+    "subtotal": 1797.75,
+    "tax": 0.0,
+    "total": 1797.75,
+    "line_items": [
+      {
+        "description": "Software licence",
+        "quantity": 5,
+        "unit_price": 79.0,
+        "amount": 395.0
+      },
+      {
+        "description": "Courier delivery",
+        "quantity": 1,
+        "unit_price": 12.75,
+        "amount": 12.75
+      },
+      {
+        "description": "Consulting hour",
+        "quantity": 8,
+        "unit_price": 95.0,
+        "amount": 760.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 210.0,
+        "amount": 630.0
+      }
+    ]
+  },
+  {
+    "file": "invoice_050.pdf",
+    "template": 0,
+    "vendor": "Riverbend Logistics",
+    "invoice_number": "INV-3997-050",
+    "invoice_date": "2026-04-22",
+    "currency": "AUD",
+    "subtotal": 1194.0,
+    "tax": 119.4,
+    "total": 1313.4,
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 4,
+        "unit_price": 210.0,
+        "amount": 840.0
+      },
+      {
+        "description": "Software licence",
+        "quantity": 1,
+        "unit_price": 79.0,
+        "amount": 79.0
+      },
+      {
+        "description": "Cleaning service (visit)",
+        "quantity": 5,
+        "unit_price": 55.0,
+        "amount": 275.0
+      }
+    ]
+  }
+]
